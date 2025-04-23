@@ -1,16 +1,16 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-<h1 align="center"><b>𝐇𝐢, 𝐈'𝐦 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>𝐇𝐢, 𝐈'𝐦 Teddy Tech </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/Teddytech1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+Are+You+:)..&hearts;++;IT+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+things..<3" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xhclintohn">
+  <a href="https://github.com/Teddytech1">
     <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
@@ -29,10 +29,10 @@
 
 - 💻 **Full Stack Developer** with passion for clean code
 - 🌱 Currently mastering **React & Node.js**
-- 💫 Working on [Toxic-MD](https://github.com/xhclintohn/Toxic-MD) - An awesome project!
-- 📄 Check out my [portfolio](https://github.com/xhclintohn?tab=repositories)
+- 💫 Working on [TEDDY-XMD](https://github.com/Teddytech1/TEDDY-XMD) - An awesome project!
+- 📄 Check out my [portfolio](https://github.com/Teddytech1?tab=repositories)
 - 👯 Looking to collaborate on **JavaScript/TypeScript projects**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+- ⚡ Fun fact: I can clone a website in under 1 hour ☠️!
 
 ---
 
@@ -87,7 +87,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhclintohn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teddytech1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF" alt="Top Languages" />
 </div>
 
 ---
@@ -104,19 +104,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://wa.me/254735342808" target="_blank">
+  <a href="https://wa.me/254799963586" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://t.me/xhclinv" target="_blank">
+  <a href="https://t.me/Teddy_md" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/m-xh_clinton-6839552a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/Teddy_tech-6839552a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/xh_clinton" target="_blank">
+  <a href="https://twitter.com/Teddy Techke" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:xhclinton@gmail.com" target="_blank">
+  <a href="klangat093@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
