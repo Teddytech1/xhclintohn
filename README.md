@@ -1,52 +1,72 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-<h1 align="center"><b>𝐇𝐢, 𝐈'𝐦 Teddy Tech</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+Are+You+:)..&hearts;++;IT+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+things..<3" alt="Typing SVG" />
-  </a>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗡𝗢𝗩𝗔-𝗫𝗠𝗗</h1>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xhclintohn">
-    <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhclintohn&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak" />
-</div>
+  <a href="https://github.com/Teddytech1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Teddytech1?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Teddytech1/TEDDY-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tedddytech1/TEDDY-XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Teddytech1/TEDDY-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Teddytech1/TEDDY-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Teddytech1/TEDDY-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Teddytech1/TEDDY-XMD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Teddytech1/TEDDY-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</
 
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://wa.me/254799963583" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/Teddy_md" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kibet_fx1-6839552a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/xh_clinton" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt ="Twitter"/>
-  </a>
-  <a href="mailto:klangat093@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://files.catbox.moe/rfronl.jpg" width="270" style="border-radius: 20px;" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150" alt="Thank You"/>
-  <p>Thanks for visiting my profile! Have a great day! 🙂</p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=TEDDY-XMD+DEPLOY+NOW+ENJOY+BOT)](https://git.io/typing-svg) 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g1g1g1G/giphy.gif" width="200" alt="Happy Coding"/>
-</div>
+### 🔰 ➊ FOLLOW GITHUB
+
+[![](https://img.shields.io/badge/➕_FOLLOW_TEDDY-orange?style=for-the-badge&logo=github)](https://github.com/Teddytech1)
+
+---
+
+### 🔃 ➋ FORK REPOSITORY
+
+[![](https://img.shields.io/badge/🔁_FORK_THIS_REPO-FF4500?style=for-the-badge&logo=github)](https://github.com/Teddytech1/TEDDY-XMD/fork)
+
+---
+
+### 🔐 ➌ PAIR SESSION CODE
+
+[![](https://img.shields.io/badge/🔐_PAIR_CODE_SESSION-8A2BE2?style=for-the-badge&logo=codepen)](https://teddytech-pairing.onrender.com/pair)
+
+---
+
+### 📸 ➍ QR SESSION ID
+
+[![](https://img.shields.io/badge/📷_SCAN_QR_SESSION-FF00FF?style=for-the-badge&logo=codepen)](https://teddytech-pairing.onrender.com/)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=TEDDY-XMD)](https://git.io/typing-svg) 
+
+---
+
+### 🚀 DEPLOY TO PLATFORM
+
+**Heroku**  
+[![](https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-6971FF?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Teddytech1/TEDDY-XMD-/tree/main)
+
+**Render**  
+[![](https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-black?style=for-the-badge&logo=render)](https://dashboard.render.com/web/new)
+
+**TalkDrove**  
+[![](https://img.shields.io/badge/📤_TALKDROVE_DEPLOY-FF004D?style=for-the-badge&logo=telegram)](https://talkdrove.com)
+
+**Koyeb**  
+[![](https://img.shields.io/badge/⚙️_DEPLOY_ON_KOYEB-FF009D?style=for-the-badge&logo=koyeb)](https://app.koyeb.com)
+
+**Railway**  
+[![](https://img.shields.io/badge/🚄_DEPLOY_ON_RAILWAY-orange?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new)
+
+---
+
