@@ -23,7 +23,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/p0xeh3.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/rfronl.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -43,7 +43,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝚃𝚎𝚍𝚍𝚢",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© 𝚃𝙴𝙳𝙳𝚈-𝚇𝙼𝙳*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p0xeh3.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/rfronl.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *TEDDY XMD*⚡",
 // add alive msg here 
@@ -80,4 +80,4 @@ ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // make it true for auto recoding 
 };
-    
+
